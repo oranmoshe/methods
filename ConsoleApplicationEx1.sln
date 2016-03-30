@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextBox", "TextBox\TextBox.vcxproj", "{E4F36715-BAAF-4454-9896-550EAA660CC3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Label", "Label\Label.vcxproj", "{D0BA0735-A592-4E06-829F-FF0851B72B65}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RadioList", "RadioList\RadioList.vcxproj", "{6F037D63-3D07-4996-A7FD-2AD130537890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F36715-BAAF-4454-9896-550EAA660CC3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4F36715-BAAF-4454-9896-550EAA660CC3}.Debug|Win32.Build.0 = Debug|Win32
+		{E4F36715-BAAF-4454-9896-550EAA660CC3}.Release|Win32.ActiveCfg = Release|Win32
+		{E4F36715-BAAF-4454-9896-550EAA660CC3}.Release|Win32.Build.0 = Release|Win32
+		{D0BA0735-A592-4E06-829F-FF0851B72B65}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0BA0735-A592-4E06-829F-FF0851B72B65}.Debug|Win32.Build.0 = Debug|Win32
+		{D0BA0735-A592-4E06-829F-FF0851B72B65}.Release|Win32.ActiveCfg = Release|Win32
+		{D0BA0735-A592-4E06-829F-FF0851B72B65}.Release|Win32.Build.0 = Release|Win32
+		{6F037D63-3D07-4996-A7FD-2AD130537890}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F037D63-3D07-4996-A7FD-2AD130537890}.Debug|Win32.Build.0 = Debug|Win32
+		{6F037D63-3D07-4996-A7FD-2AD130537890}.Release|Win32.ActiveCfg = Release|Win32
+		{6F037D63-3D07-4996-A7FD-2AD130537890}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

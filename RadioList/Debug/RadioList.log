@@ -1,0 +1,74 @@
+﻿Build started 3/31/2016 12:07:45 AM.
+     1>Project "C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\RadioList\RadioList.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp RadioList.cpp
+         RadioList.cpp
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(76): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(84): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(95): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(211): warning C4552: '-' : operator has no effect; expected operator with side-effect
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(247): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(266): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(272): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(279): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(295): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(307): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(313): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(320): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(336): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(348): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(377): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(391): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(403): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(409): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(414): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(420): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(431): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(435): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(439): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(451): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(455): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(459): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(474): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(491): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(520): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(529): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(541): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(547): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(552): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(558): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(569): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(573): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(577): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(589): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(593): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(597): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(612): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(255): warning C4101: 'dest' : unreferenced local variable
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(249): warning C4101: 'whereIneed' : unreferenced local variable
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(243): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(254): warning C4101: 'source' : unreferenced local variable
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(662): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(670): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(681): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(749): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(752): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(756): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(761): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(774): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(776): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(782): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(783): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(789): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\radiolist\radiolist.cpp(793): warning C4244: 'initializing' : conversion from 'LONG' to 'SHORT', possible loss of data
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\RadioList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\RadioList.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\RadioList.lib" /MACHINE:X86 Debug\main.obj
+         Debug\RadioList.obj
+         RadioList.vcxproj -> C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\RadioList.exe
+     1>Done Building Project "C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\RadioList\RadioList.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.30
