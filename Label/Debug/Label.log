@@ -1,22 +1,14 @@
-﻿Build started 3/31/2016 12:03:11 AM.
+﻿Build started 3/31/2016 12:29:48 AM.
      1>Project "C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Label\Label.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\TextBox\Componnent.cpp ..\TextBox\Form.cpp ..\TextBox\Label.cpp ..\TextBox\main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Form.cpp main.cpp
          main.cpp
-         Label.cpp
-     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\textbox\label.cpp(17): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
-     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\textbox\label.cpp(21): warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\label\form.h(7): fatal error C1083: Cannot open include file: 'TextBox.h': No such file or directory
          Form.cpp
-         Componnent.cpp
+     1>c:\users\oran\desktop\methodsproject\consoleapplicationex1\label\form.h(7): fatal error C1083: Cannot open include file: 'TextBox.h': No such file or directory
          Generating Code...
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\Label.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\Label.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\Label.lib" /MACHINE:X86 Debug\Componnent.obj
-         Debug\Form.obj
-         Debug\Label.obj
-         Debug\main.obj
-         Label.vcxproj -> C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Debug\Label.exe
-     1>Done Building Project "C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Label\Label.vcxproj" (Build target(s)).
+     1>Done Building Project "C:\Users\Oran\Desktop\MethodsProject\ConsoleApplicationEx1\Label\Label.vcxproj" (Build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:14.20
+Time Elapsed 00:00:02.44

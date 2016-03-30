@@ -10,6 +10,17 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Componnent.cpp" />
+    <ClCompile Include="Form.cpp" />
+    <ClCompile Include="Label.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="Form.h" />
+    <ClInclude Include="Label.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D0BA0735-A592-4E06-829F-FF0851B72B65}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -77,17 +88,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\TextBox\Component.h" />
-    <ClInclude Include="..\TextBox\Form.h" />
-    <ClInclude Include="..\TextBox\Label.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\TextBox\Componnent.cpp" />
-    <ClCompile Include="..\TextBox\Form.cpp" />
-    <ClCompile Include="..\TextBox\Label.cpp" />
-    <ClCompile Include="..\TextBox\main.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
